@@ -1,0 +1,3 @@
+ImageLabel.Image = "rbxassetid://85721109681157"
+ImageLabel.BackgroundTransparency = 1
+ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
